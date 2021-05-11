@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "react": "16.0.0",
     "react-360": "~1.0.0",
     "react-360-web": "~1.0.0",
